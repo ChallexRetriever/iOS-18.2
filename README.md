@@ -73,7 +73,20 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 ![alt text](https://xookz.com/challex-images/challex11.jpg "Logo Title Text 1")
 
-</div><br>
+</div><br><hr><br>
+
+<h2>App Features</h2>
+
+<h3>App Compatibility</h3>
+
+- Challex Retriever supports all major jailbreak-related apps and tweaks. Some popular categories include:
+
+`Jailbreak Apps`
+`Custom Themes`
+`UI/UX Tweaks`
+`Performance Enhancements`
+`Third-party App Store installations`
+
 
 
 
