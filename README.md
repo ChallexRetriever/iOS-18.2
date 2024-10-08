@@ -31,6 +31,6 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Version: 1.0`
 
 
