@@ -8,8 +8,8 @@
   
 <div align="center" style= "background-color: #33b8ff;"><b>
   
- 🔸`Version: 1.0` 🔸 <br>
-![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Supported Platforms: iPhones and iPads running iOS 18.2` ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) <br> 
+ 🔸`Version: 1.0`🔸 <br>
+🔹`Supported Platforms: iPhones and iPads running iOS 18.2`🔹 <br> 
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Category: Jailbreak App/Tweak Installer` ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) <br>
   ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Author: Charly`
   
