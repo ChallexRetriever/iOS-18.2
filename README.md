@@ -18,7 +18,7 @@
   <h2>Overview</h2>
 
 Challex Retriever is an innovative, user-friendly solution that allows users to install jailbreak apps, tweaks, themes, and jailbreak tools directly onto their iOS 18.2 devices. Without the need for complex command-line tools or jailbreaking techniques, Challex Retriever provides a seamless experience through its unique progress bar interface, where users simply slide to the left to install their desired packages.<br><br>
-Whether you're a seasoned jailbreak enthusiast or new to the community, Challex Retriever makes installing custom apps and tweaks a breeze.<br>
+Whether you're a seasoned jailbreak enthusiast or new to the community, Challex Retriever makes installing custom apps and tweaks a breeze.<br><hr>
 
 <h3>Features:</h3>
 
@@ -27,7 +27,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 * Jailbreak Tools /Apps / Tweaks and Themes: Install a wide variety of popular jailbreak tools / apps, tweaks, and custom themes.
 * Secure Installation: Safe and verified installations ensure a smooth experience without device instability.<br>
 
-<div>
+<div><br><hr>
   
 <h2>Features:</h2>
 
@@ -35,7 +35,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 1. iPhone or iPad running iOS 18.2.
 2. Internet connection for retrieving app packages.
-3. Online method - No Need a Mac or Windows PC<br><br>
+3. Online method - No Need a Mac or Windows PC<br><hr>
 
 <h3>Step-by-Step Installation Guide:</h3>
 
@@ -53,7 +53,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 4. Confirm Installation
 
-   After the progress completes, you'll receive a confirmation that the app or tweak has been successfully installed.<br><hr><br>
+   After the progress completes, you'll receive a confirmation that the app or tweak has been successfully installed.<br><hr>
    
 </div>
 
