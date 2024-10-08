@@ -24,6 +24,9 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 <h3>Features:</h3>
 
-* Unordered sub-list.
+* Slide to Install: A sleek progress bar interface where users can drag to the left to initiate the installation of apps, tweaks, and themes.
+* Full Compatibility: Supports the latest iOS 18.2 version running on iPhones and iPads.
+* Jailbreak Tools /Apps / Tweaks and Themes: Install a wide variety of popular jailbreak tools / apps, tweaks, and custom themes.
+* Secure Installation: Safe and verified installations ensure a smooth experience without device instability.
 
 
