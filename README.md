@@ -32,7 +32,12 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 <details>
 
-<summary><h2><style="color:red">Tips for collapsed sections</h2></summary>
+<summary><h2>
+  ```ruby 
+  Tips for collapsed sections
+  ```
+</h2>
+</summary>
 
 ### You can add a header
 
