@@ -38,6 +38,21 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 <h3>Step-by-Step Installation Guide:</h3>
 
+1. Download Challex Retriever
+
+   Download the latest  file from the Releases section of this GitHub repository.
+
+2. Launch Challex Retriever
+
+   Once installed, open the Challex Retriever app on your iPhone or iPad.
+
+3. Slide to Install
+
+   Browse the list of available apps, tweaks, themes, or jailbreak packages within the app. To install, simply slide the progress bar to the left. The installation will begin immediately, and progress is shown in real-time.
+
+4. Confirm Installation
+
+   After the progress completes, you'll receive a confirmation that the app or tweak has been successfully installed.
 
 
 
