@@ -57,7 +57,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
    <h4><b>Screenshots:</b></h4>
 
-   1. Main Interface
+1. Main Interface
 
 
 
