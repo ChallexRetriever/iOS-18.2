@@ -6,7 +6,7 @@
 
 
   
-<div align="center"><b>
+<div align="center" style="color: red;"><b>
   
   `Version: 1.0 ` 
   `Supported Platforms: iPhones and iPads running iOS 18.2 `
