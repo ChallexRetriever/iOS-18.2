@@ -34,7 +34,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 1. iPhone or iPad running iOS 18.2.
 2. Internet connection for retrieving app packages.
-3. Online method - No Need a Mac or Windows PC<br>
+3. Online method - No Need a Mac or Windows PC<br><br>
 
 <h3>Step-by-Step Installation Guide:</h3>
 
