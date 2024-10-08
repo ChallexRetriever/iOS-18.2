@@ -8,7 +8,7 @@
   
 <div align="center" style= "background-color: #33b8ff;"><b>
   
-🟨`Version: 1.0` <br> 🟩`Supported Platforms: iPhones and iPads running iOS 18.2` <br> 🟪`Category: Jailbreak App/Tweak Installer` <br> 🟥`Author: Charly` 
+🟨`Version: 1.0`🟨 <br> 🟩`Supported Platforms: iPhones and iPads running iOS 18.2`🟩 <br> 🟪`Category: Jailbreak App/Tweak Installer`🟪 <br> 🟥`Author: Charly`🟥
   
   </b></div>
 
