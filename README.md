@@ -60,6 +60,20 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
    <h4><b>Screenshots:</b></h4>
 
 1. Main Interface
+   
+<div align="center">
+
+[https://xookz.com/challex-images/challex22.jpg](https://xookz.com/challex-images/challex22.jpg)
+
+</div>
+
+2. Progress Bar Installation
+
+<div align="center">
+
+[https://xookz.com/challex-images/challex11.jpg](https://xookz.com/challex-images/challex11.jpg)
+
+</div>
 
 
 
