@@ -65,7 +65,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 ![alt text](https://xookz.com/challex-images/challex22.jpg "Logo Title Text 1")
 
-</div>
+</div><br>
 
 2. Progress Bar Installation
 
@@ -73,7 +73,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 ![alt text](https://xookz.com/challex-images/challex11.jpg "Logo Title Text 1")
 
-</div>
+</div><br>
 
 
 
