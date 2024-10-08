@@ -19,7 +19,7 @@
 
   <h3>Overview</h3>
 
-Challex Retriever is an innovative, user-friendly solution that allows users to install jailbreak apps, tweaks, themes, and jailbreak tools directly onto their iOS 18.2 devices. Without the need for complex command-line tools or jailbreaking techniques, Challex Retriever provides a seamless experience through its unique progress bar interface, where users simply slide to the left to install their desired packages.<br>
+Challex Retriever is an innovative, user-friendly solution that allows users to install jailbreak apps, tweaks, themes, and jailbreak tools directly onto their iOS 18.2 devices. Without the need for complex command-line tools or jailbreaking techniques, Challex Retriever provides a seamless experience through its unique progress bar interface, where users simply slide to the left to install their desired packages.<br><br>
 Whether you're a seasoned jailbreak enthusiast or new to the community, Challex Retriever makes installing custom apps and tweaks a breeze.
 
 
