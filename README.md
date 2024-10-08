@@ -89,6 +89,26 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 <hr>
 
+<h3>Security and Safety</h3>
+
+- Code Signing: All apps and tweaks are signed and verified to ensure secure installations.
+- Sandboxed Installations: Apps are installed within a secure sandbox environment, minimizing any risks to your iOS device.<br>
+<hr>
+
+<h2>Frequently Asked Questions (FAQ)</h2>
+
+1. `Is a jailbreak required to use Challex Retriever?`
+No, Challex Retriever does not require a full jailbreak to function. However, it provides access to a wide range of jailbreak tools,apps, tweaks, and themes.<br>
+2. `How do I uninstall apps installed through Challex Retriever?`
+Simply navigate to the installed app within Challex Retriever and slide the bar to uninstall.<br>
+3. `Does Challex Retriever work on older iOS versions?`
+Challex Retriever is optimized for iOS 18.2. Compatibility with older versions is limited and may not provide full functionality.<br>
+4. `Can I install a Challex Retriever without a PC?`
+Yes,you can install it without Windows and macOS<br><hr>
+
+<h2>Contributing</h2>
+
+Contributions to Challex Retriever are welcome! If you have feature requests, bug reports, or pull requests, feel free to open a new issue or submit your changes through this GitHub repository.
 
 
 
