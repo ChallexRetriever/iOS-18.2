@@ -18,9 +18,7 @@
 
   <div align="center" style= "background-color: #33b8ff;"><b>
     
-  ```diff
- Version: 1.0 
-```
+ $${\color{red}Red}$$
   
   </b></div>
 
