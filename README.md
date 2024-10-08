@@ -8,9 +8,9 @@
   
 <div align="center" style= "display:inline; background-color:aqua;"><b>
   
-  `Version: 1.0 ` |
+  `Version: 1.0 ` <br>
   `Supported Platforms: iPhones and iPads running iOS 18.2 ` |
-  `Category: Jailbreak App/Tweak Installer ` |
+  `Category: Jailbreak App/Tweak Installer ` <br>
   `Author: Charly `
   
   </b></div>
