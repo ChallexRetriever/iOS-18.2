@@ -16,9 +16,9 @@
   </b></div>
 
 
-  <div align="center" style= "background-color: #33b8ff;"><b>
+  <div align="center"><b>
     
- ${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+ $\color{green}{test}$
   
   </b></div>
 
