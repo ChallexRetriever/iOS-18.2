@@ -23,7 +23,7 @@
   </b></div>
 
   ```diff
-- text in red
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Version: 1.0` ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 + text in green
 ! text in orange
 # text in gray
