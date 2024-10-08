@@ -8,7 +8,7 @@
   
 <div align="center" style= "background-color: #33b8ff;"><b>
   
- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)`Version: 1.0`![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)`Supported Platforms: iPhones and iPads running iOS 18.2`![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)`Category: Jailbreak App/Tweak Installer`![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)`Author: Charly` ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
+🟨`Version: 1.0` 🟩`Supported Platforms: iPhones and iPads running iOS 18.2` 🟪`Category: Jailbreak App/Tweak Installer` 🟥`Author: Charly` 
   
   </b></div>
 
