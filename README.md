@@ -6,6 +6,10 @@
 
 
   
-<center> `Version: 1.0 ` </center>
+<div align="center">
+  
+  `Version: 1.0 ` 
+  
+  </div>
 
 
