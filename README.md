@@ -27,7 +27,8 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 * Jailbreak Tools /Apps / Tweaks and Themes: Install a wide variety of popular jailbreak tools / apps, tweaks, and custom themes.
 * Secure Installation: Safe and verified installations ensure a smooth experience without device instability.<br>
 
-
+<div>
+  
 <h2>Features:</h2>
 
 <h3>Prerequisites:</h3>
@@ -53,7 +54,8 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 4. Confirm Installation
 
    After the progress completes, you'll receive a confirmation that the app or tweak has been successfully installed.<br><hr><br>
-
+   
+</div>
 
    <h4><b>Screenshots:</b></h4>
 
