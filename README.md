@@ -6,7 +6,7 @@
 
 
   
-<div align="center" style="color: red;"><b>
+<div align="center" style= "display:inline; background-color:aqua;"><b>
   
   `Version: 1.0 ` 
   `Supported Platforms: iPhones and iPads running iOS 18.2 `
