@@ -41,7 +41,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 1. Download Challex Retriever
 
-   Download the latest  file from the Releases section of this GitHub repository.
+   Download the latest  file from the <a href="https://github.com/ChallexRetriever/iOS-18.2/releases/tag/v1.0">Releases</a> section of this GitHub repository.
 
 2. Launch Challex Retriever
 
