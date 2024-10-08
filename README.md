@@ -32,7 +32,7 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 <details>
 
-<summary><h2>Tips for collapsed sections</h2>h2></summary>
+<summary><h2>Tips for collapsed sections</h2></summary>
 
 ### You can add a header
 
