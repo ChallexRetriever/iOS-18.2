@@ -4,4 +4,8 @@
 </p>
 <h2 align="center">Challex Retriever: App and Tweak Installer for iOS 18.2</h2>
 
+<p align="center">
+  
 `Version: 1.0 `
+
+</p>
