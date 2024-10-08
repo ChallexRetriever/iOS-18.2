@@ -31,13 +31,8 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 * Secure Installation: Safe and verified installations ensure a smooth experience without device instability.
 
 <details>
-
-<summary><h2>
-  ```ruby 
-  Tips for collapsed sections
-  ```
-</h2>
-</summary>
+  
+<summary><h2> `Tips for collapsed sections` </h2></summary>
 
 ### You can add a header
 
