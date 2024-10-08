@@ -81,11 +81,11 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 - Challex Retriever supports all major jailbreak-related apps and tweaks. Some popular categories include:
 
-`Jailbreak Apps`<br>
-`Custom Themes`<br>
-`UI/UX Tweaks`<br>
-`Performance Enhancements`<br>
-`Third-party App Store installations`<br>
+-- `Jailbreak Apps`<br>
+-- `Custom Themes`<br>
+-- `UI/UX Tweaks`<br>
+-- `Performance Enhancements`<br>
+-- `Third-party App Store installations`<br>
 
 <hr>
 
