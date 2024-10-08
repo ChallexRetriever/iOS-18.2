@@ -30,6 +30,22 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 * Jailbreak Tools /Apps / Tweaks and Themes: Install a wide variety of popular jailbreak tools / apps, tweaks, and custom themes.
 * Secure Installation: Safe and verified installations ensure a smooth experience without device instability.
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 
 
 
