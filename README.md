@@ -8,10 +8,10 @@
   
 <div align="center" style= "background-color: #33b8ff;"><b>
   
-  `Version: 1.0 ` <br>
-  `Supported Platforms: iPhones and iPads running iOS 18.2 ` <br>
-  `Category: Jailbreak App/Tweak Installer ` <br>
-  `Author: Charly `
+ ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Version: 1.0` <br>
+ ![#c5f015](https://placehold.co/15x15/f03c15/f03c15.png) `Supported Platforms: iPhones and iPads running iOS 18.2` <br>
+![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) `Category: Jailbreak App/Tweak Installer` <br>
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Author: Charly`
   
   </b></div>
 
@@ -31,6 +31,6 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Version: 1.0`
+
 
 
