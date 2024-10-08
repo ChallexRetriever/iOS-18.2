@@ -52,10 +52,12 @@ Whether you're a seasoned jailbreak enthusiast or new to the community, Challex 
 
 4. Confirm Installation
 
-   After the progress completes, you'll receive a confirmation that the app or tweak has been successfully installed.<br><br>
+   After the progress completes, you'll receive a confirmation that the app or tweak has been successfully installed.<br><hr><br>
 
 
    <h4><b>Screenshots:</b></h4>
+
+   1. Main Interface
 
 
 
